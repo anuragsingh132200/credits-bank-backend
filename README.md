@@ -1,6 +1,3 @@
-Certainly! Here's a sample README.md file for your Node.js application assignment:
-
----
 
 # Credit Approval System
 
